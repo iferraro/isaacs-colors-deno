@@ -5,10 +5,8 @@ import { ColorNode } from "../src/types";
 
 export default function Home() {
   return (
-    <div className="text-white">
-      {colors.map((color: ColorNode) => (
-        <ColorBox key={color.id} {...color} />
-      ))}
+    <div className="flex flex-col items-center p-8">
+      {colors.map((color: ColorNode) => <ColorBox key={color.id} {...color} />)}
     </div>
   );
 }
