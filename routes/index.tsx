@@ -4,11 +4,10 @@ import { ColorBox } from "../islands/ColorBox";
 import { ColorNode } from "../src/types";
 
 export default function Home() {
-  console.log(colors, "<- colors");
   return (
     <div className="text-white">
-      {colors.map((c: ColorNode) => (
-        <ColorBox id={c.id} name={c.name} hex={c.hex} />
+      {colors.map((color: ColorNode) => (
+        <ColorBox key={color.id} {...color} />
       ))}
     </div>
   );

@@ -8,5 +8,165 @@
     "id": "wet-sand",
     "name": "Wet Sand",
     "hex": "#AEA98B"
+  },
+  {
+    "id": "kidney-bean",
+    "name": "Kidney Bean",
+    "hex": "#B9535D"
+  },
+  {
+    "id": "name-this-fruit",
+    "name": "Name This Fruit",
+    "hex": "#D04864"
+  },
+  {
+    "id": "dauntless-pink",
+    "name": "Dauntless Pink",
+    "hex": "#CC3399"
+  },
+  {
+    "id": "protagonist",
+    "name": "Protagonist",
+    "hex": "#B51B37"
+  },
+  {
+    "id": "jaunty",
+    "name": "Jaunty",
+    "hex": "#FF2625"
+  },
+  {
+    "id": "pompous-orange",
+    "name": "Pompous Orange",
+    "hex": "#F77F00"
+  },
+  {
+    "id": "honeycomb",
+    "name": "Honeycomb",
+    "hex": "#FE9C01"
+  },
+  {
+    "id": "rather-nice-gold",
+    "name": "Rather Nice Gold",
+    "hex": "#EBB017"
+  },
+  {
+    "id": "molten",
+    "name": "Molten",
+    "hex": "#ECE596"
+  },
+  {
+    "id": "sardonic-green",
+    "name": "Sardonic Green",
+    "hex": "#8DA868"
+  },
+  {
+    "id": "evidently-emerald",
+    "name": "Evidently Emerald",
+    "hex": "#1DA253"
+  },
+  {
+    "id": "tiger-beetle",
+    "name": "Tiger Beetle",
+    "hex": "#188E68"
+  },
+  {
+    "id": "swamp",
+    "name": "Swamp",
+    "hex": "#204338"
+  },
+  {
+    "id": "humble-green",
+    "name": "Humble Green",
+    "hex": "#00201C"
+  },
+  {
+    "id": "could-be-slate",
+    "name": "Could Be Slate",
+    "hex": "#1C292C"
+  },
+  {
+    "id": "cyan-spirit-dark",
+    "name": "Cyan Spirit: Dark",
+    "hex": "#003A42"
+  },
+  {
+    "id": "sincere-blue",
+    "name": "Sincere Blue",
+    "hex": "#2626C6"
+  },
+  {
+    "id": "formidiblue",
+    "name": "Formidiblue",
+    "hex": "#0B3EA0"
+  },
+  {
+    "id": "hydrangea",
+    "name": "Hydrangea",
+    "hex": "#044CE1"
+  },
+  {
+    "id": "linear",
+    "name": "Linear",
+    "hex": "#0385B5"
+  },
+  {
+    "id": "mail",
+    "name": "Mail",
+    "hex": "#EDEFEE"
+  },
+  {
+    "id": "fledgling-seagull",
+    "name": "Fledgling Seagull",
+    "hex": "#968982"
+  },
+  {
+    "id": "robin-egg",
+    "name": "Robin Egg",
+    "hex": "#9ACACA"
+  },
+  {
+    "id": "sand-ish-teal-ish",
+    "name": "Sand-ish Teal-ish",
+    "hex": "#547C86"
+  },
+  {
+    "id": "cyan-spirit-light",
+    "name": "Cyan Spirit: Light",
+    "hex": "#00FFDA"
+  },
+  {
+    "id": "righteous-light",
+    "name": "Righteous: Light",
+    "hex": "#007696"
+  },
+  {
+    "id": "righteous-dark",
+    "name": "Righteous: Dark",
+    "hex": "#004056"
+  },
+  {
+    "id": "could-be-blue",
+    "name": "Could Be Blue",
+    "hex": "#06313F"
+  },
+  {
+    "id": "exec",
+    "name": "Exec",
+    "hex": "#18213A"
+  },
+  {
+    "id": "kinda-kolonial",
+    "name": "Kinda Kolonial",
+    "hex": "#0B0425"
+  },
+  {
+    "id": "morado-misterioso",
+    "name": "Morado Misterioso",
+    "hex": "#280D3F"
+  },
+  {
+    "id": "midnight-delirium",
+    "name": "Midnight Delirium",
+    "hex": "#4E00BA"
   }
 ]
